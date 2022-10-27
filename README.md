@@ -178,10 +178,11 @@ No known bugs at this time.
 
 ## Authors
 
-Kalab Sisay -
+Kalab Sisay - [Github](https://github.com/) / [Twitter](https://twitter.com/)
+
 Ermias Bahru - [Github](https://github.com/ermiasbahru) / [Twitter](https://twitter.com/ermias_bahru)
 
-Second part of Airbnb: Joann Vuong
+Fourth part of Airbnb
 
 ## License
 
